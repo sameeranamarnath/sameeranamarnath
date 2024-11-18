@@ -1,5 +1,5 @@
 <h1 align="center">Greetings, i am Amar.S</h1>
-<h3 align="center">a full-stack/cloud/ai dev , architect and occasional trainer with 16 years of exp in helping organisations grow ,teams excel and building highly performant, functional and reliable systems, i have worked on AR & IOT apps as well in the past. Been understanding langchain and llms better of late, still getting used to github as work used to take away a huge chunk of my time, open to new opportunities</h3>
+<h3 align="center">a full-stack/cloud/ai dev , architect and occasional trainer with 16 years of exp in helping organisations grow ,teams excel and building highly performant, functional and reliable systems, i have worked on AR & IOT apps  in the past.</h3>
 
 <h3 align="left">My philosophy as a coder and architect: Do more with less</h3>
 <p align="left">
