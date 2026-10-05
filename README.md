@@ -34,6 +34,14 @@ abstractions, and the failure path treated as a first-class design concern.
 | [youtube-transcript-summarizer](https://github.com/sameeranamarnath/youtube-transcript-summarizer) | Ask questions about a YouTube video, answered only from its transcript - LangChain + HNSWLib retrieval on Next.js |
 | [natural-text-to-sql](https://github.com/sameeranamarnath/natural-text-to-sql) | Plain English to SQL against any database, with a Streamlit UI - LangChain + GPT-3.5/4 |
 | [cryptowhiz](https://github.com/sameeranamarnath/cryptowhiz) | Crypto momentum screener - market data in, charts and an LLM read on each candidate out |
+| [multimodal-pdf-rag](https://github.com/sameeranamarnath/multimodal-pdf-rag) | Multimodal PDF RAG - text, tables and images into pgvector via Azure OpenAI, served as FastAPI, Streamlit and an MCP server |
+
+### Freight and logistics
+
+| Repo | What it is |
+| --- | --- |
+| [eld-trip-planner](https://github.com/sameeranamarnath/eld-trip-planner) / [eld-trip-planner-v2](https://github.com/sameeranamarnath/eld-trip-planner-v2) | FMCSA hours-of-service trip planner - an HOS simulator, a filled log sheet for every calendar day, a turn-by-turn route and PDF export (Django + React + Leaflet) |
+| [fuel-stop-planner](https://github.com/sameeranamarnath/fuel-stop-planner) | Cost-optimal fuel-stop planning for a 500-mile / 10 MPG truck on any US route, with station matching against the driving corridor (Django REST + React) |
 
 ### Earlier work
 
