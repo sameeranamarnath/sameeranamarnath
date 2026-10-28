@@ -1,17 +1,10 @@
 <h1 align="center">Amar S</h1>
-<h3 align="center"> senior AI engineer with deep expertise and experience in Full-stack / cloud / multi agent AI development , implementation .&amp; i have extensive experience in AI based research and solutioning around multi agent solutions, generative and deep learning model architectures, reinforcement learning </h3>
+<h3 align="center"> senior AI engineer with deep expertise and experience in Full-stack / cloud / multi agent AI development , implementation .I have extensive experience in AI based research and solutioning around multi agent solutions, defense-humanoid robots, self driving cars,generative and deep learning model architectures, reinforcement learning </h3>
 
-I design and build distributed systems - mostly event-driven, mostly on AWS or
-Azure, and increasingly with LLMs in the loop. Sixteen years in, that has meant AR
-and IoT, embedded firmware and Android, microservices at scale, and the CI/CD and
-infrastructure-as-code that keeps it honest. I also train teams, which is where a
-number of the repos below came from.
 
-Most of what is below is GenAI work that behaves like production software: evals
-that gate pull requests, guardrails that fail closed, tracing, per-request cost
-accounting, and decision records explaining the trade-offs.
 
-### my skillset 
+
+My skillset 
 
 | Area | Depth |
 | --- | --- |
