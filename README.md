@@ -1,5 +1,5 @@
 <h1 align="center">Amar S</h1>
-<h3 align="center">Full-stack / cloud / AI engineer &amp; architect - 16 years building systems that have to stay up</h3>
+<h3 align="center"> senior AI engineer with deep expertise and experience in Full-stack / cloud / multi agent AI development , implementation .&amp; i have extensive experience in AI based research and solutioning around multi agent solutions, generative and deep learning model architectures, reinforcement learning </h3>
 
 I design and build distributed systems - mostly event-driven, mostly on AWS or
 Azure, and increasingly with LLMs in the loop. Sixteen years in, that has meant AR
@@ -11,14 +11,14 @@ Most of what is below is GenAI work that behaves like production software: evals
 that gate pull requests, guardrails that fail closed, tracing, per-request cost
 accounting, and decision records explaining the trade-offs.
 
-### What I do
+### my skillset 
 
 | Area | Depth |
 | --- | --- |
-| **GenAI / LLM engineering** | LangGraph agent orchestration, RAG over Qdrant, self-hosted inference with vLLM, evals (golden datasets, deterministic scorers, LLM-as-judge, calibration), guardrails and PII redaction, token and cost metering, OpenTelemetry GenAI tracing |
-| **Full-stack** | TypeScript / React / Next.js, Python (FastAPI, Django, Flask), Node.js, Go, PostgreSQL, MongoDB, Redis, REST and GraphQL, Socket.io and WebSockets |
-| **Cloud and platform** | AWS (Lambda, API Gateway, DynamoDB, SQS, ECS), Azure (OpenAI, Container Apps), Terraform, Docker, Kubernetes, Skaffold, CI/CD |
-| **Earlier depth** | Embedded C++ firmware, Android, TensorFlow, AR and IoT |
+| GenAI / LLM engineering| LangGraph agent orchestration, RAG over Qdrant, self-hosted inference with vLLM, evals using golden datasets, deterministic scorers, LLM-as-judge, LLM fine tuning, creating SLMs,custom ai model architectures, calibration, guardrails and PII redaction, token and cost metering, OpenTelemetry GenAI tracing, pytorch |
+| Full-stack | TypeScript / React / Next.js, Python (FastAPI, Django, Flask), Node.js, Go, PostgreSQL, MongoDB, Redis, REST and GraphQL, Socket.io and WebSockets |
+| Cloud and platform | AWS (Lambda, API Gateway, DynamoDB, SQS, ECS), Azure (OpenAI, Container Apps), Terraform, Docker, Kubernetes, Skaffold, CI/CD |
+| Earlier depth| Embedded C++ firmware, Android, TensorFlow, AR and IoT |
 
 ### How I build
 
